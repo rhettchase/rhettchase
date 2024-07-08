@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning JavaScript, HTML as part of the Code Fellows full-stack software development program
+- 🌱 I completed my certification in Advanced Software Development as part of the Code Fellows full-stack software development program
+- ✨ I'm proficient in Python, JavaScript, HTML
+- 🌱 I'm currently learning C#, .NET, and Azure as part of the Microsoft Software & Systems Academy
 - ⚡ Fun fact: I'm a former Management Consultant and Air Force Officer
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -92,11 +94,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<li>
-<a href="mailto:rhettjchase@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  rhettjchase-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
 	
 </ul>
 </div>
